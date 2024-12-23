@@ -20,3 +20,7 @@ The basic idea of this theory is to achieve diversification by constructing a po
 ### 3. The Optimisation Class
 
 ### 4. Conclusions
+
+
+
+![newplot](https://github.com/user-attachments/assets/b53cbfe9-1314-411c-a491-c62152269ed2)
