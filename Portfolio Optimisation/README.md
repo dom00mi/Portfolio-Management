@@ -1,4 +1,4 @@
-![newplot (1)](https://github.com/user-attachments/assets/4a979c05-a47b-4468-aaf5-52219863fad3)# Portfolio Optimisation
+# Portfolio Optimisation
 
 Here in this project, I would like to shed some light over Portfolio Optimization and the foundations of Mathematical Optimization and Modern portfolio theory (or Mean-Variance Portfolio Theory). Based on the assumption  that returns are normally distributed and by looking at mean and variance, we can essentially describe the distribution of end-of-period wealth.
 The basic idea of this theory is to achieve diversification by constructing a portfolio for a minimal portfolio risk or maximal portfolio returns. Accordingly, the Efficient Frontier is a set of optimal portfolios in the risk-return spectrum, and portfolios located under the Efficient Frontier curve are considered sub-optimal.
@@ -21,6 +21,8 @@ The basic idea of this theory is to achieve diversification by constructing a po
 
 ### 4. Conclusions
 
+To visualize the full code, please visit the Jupyter notebook!
+
 Below I included the Plotly charts that could not be loaded into the Jupyter due to their file size:
 
 
@@ -33,4 +35,11 @@ Below I included the Plotly charts that could not be loaded into the Jupyter due
 
 ![newplot (2)](https://github.com/user-attachments/assets/1f22c474-2c84-45c6-a388-1db5ed41390e)
 
+### Monte Carlo Simulations for Portfolio Optimisation
+
+![newplot (3)](https://github.com/user-attachments/assets/52236119-7e91-49c1-b136-bcf9dc075725)
+
+### Lagrangian Optimisation - Optimal Weights
+
+![newplot (4)](https://github.com/user-attachments/assets/5e7520f4-9f75-4723-9b24-5a505383bbb8)
 
