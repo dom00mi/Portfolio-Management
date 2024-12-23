@@ -59,4 +59,4 @@ I also want to generate some useful graphs for each index, that will help the re
 
 - ###### 3.4 Conclusions
 
-Please go to the Jupyter notebook if you want to view the full code!
+Please go to the Jupyter notebook if you wish to view the full code!
